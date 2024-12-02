@@ -16,8 +16,8 @@
 2. Atverot .msi failu kuru jūs nolādējāt no mājaslapas, palaižot to, nākamais solis ir sekot līdzi ekrānā redzamajiem norādījumiem un apsverot savas vajadzības izvēlēties opcijas kas panāks to.
 3. Kad instalācija ir pabeigta, restartējiet jūsu ierīci, lai visi komponenti būtu ielādēti pareizi.
 4. Nākamais ir pieveinot VPN konfigurācijas failu lai mums būtu serveris pie kā pievienoties:
-4.1 Ja jums ir jau VPN konfigurācijas fails, izmantojot labo pelītes taustiņu uz OpenVPN iconu uzdevumajoslā izvēlēties Import -> Konfigurācijas fails -> Open - Atļaujiet procesam beigties, ja ir nepieciešams ievadīt lietotājvardu un paroli izdariet to.
-4.2 Gadijumā ja jums nav konfigurācijas fails, varat nolādēt bezmaksas variantus https://www.vpnbook.com/ mājaslapā sadaļā OpenVPN, iegaumējot arī doto lietotājvārdu un paroli. Sekojiet līdzi instalācijas procesam, kas ir jau minēts 4.1 punktā.
+4.1. Ja jums ir jau VPN konfigurācijas fails, izmantojot labo pelītes taustiņu uz OpenVPN iconu uzdevumajoslā izvēlēties Import -> Konfigurācijas fails -> Open - Atļaujiet procesam beigties, ja ir nepieciešams ievadīt lietotājvardu un paroli izdariet to.
+4.2. Gadijumā ja jums nav konfigurācijas fails, varat nolādēt bezmaksas variantus https://www.vpnbook.com/ mājaslapā sadaļā OpenVPN, iegaumējot arī doto lietotājvārdu un paroli. Sekojiet līdzi instalācijas procesam, kas ir jau minēts 4.1 punktā.
 5. Izdarot visus iepriekšos soļus servisam vajadzētu būt veiksmīgi ielādētam, lai palaistu un izveidotu savienojumu atveriet servisu un izvēlieties servera konfigurāciju kā arī nospiežiet pieslēgšanās pogu.
 6. Apsveicu! Esat veiksmīgi ielādējis OpenVPN servisu.
   
